@@ -1,6 +1,6 @@
 ## Welcome to Puyu Wang`s website
-
-You can visit my blog here [editor on GitHub](https://blog.puyuwang.me).
+This is a static site hosted on github.
+You can visit my blog here [my wordpress blog](https://blog.puyuwang.me).
 
 
 ### Still Updating
