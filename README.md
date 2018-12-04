@@ -1,5 +1,5 @@
 ## Welcome to Puyu Wang`s website
-This is a static site hosted on github.
+This is a static site hosted on github.  
 You can visit my blog here [my wordpress blog](https://blog.puyu.live).
 
 ## For the moment, major contents are hosted on my blog
