@@ -2,6 +2,10 @@
 This is a static site hosted on github.
 You can visit my blog here [my wordpress blog](https://blog.puyu.live).
 
+## For the moment, major contents are hosted on my blog
+
+
+
 
 ### Still Updating
 
@@ -27,9 +31,4 @@ Syntax highlighted code block
 
 
 
-### Using Jekyll Themes 
-
-
-
-### Support or Contact
 
