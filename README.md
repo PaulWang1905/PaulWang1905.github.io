@@ -19,7 +19,7 @@
 [Repo](https://repo.puyu.live)  
 [Twitter](https://twitter.com/Paul_Y_W)  
 [Github](https://github.com/PaulWang1905)    
-[Facebook](facebook.com/puyu.wang.music)  
+[Facebook](https://facebook.com/puyu.wang.music)  
 
 # Short Bio
 
