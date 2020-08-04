@@ -1,9 +1,8 @@
 ## Welcome to Puyu Wang`s website
 This is a static site hosted on github.  
 
-My blog: [my wordpress blog](https://blog.puyu.live).
+My blog: [Blog](https://blog.puyu.live)  
 My repo: [Repo](https://repo.puyu.live)
-## For the moment, major contents are hosted on my blog
 
 ## About Me
 
