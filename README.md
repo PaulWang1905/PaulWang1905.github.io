@@ -15,8 +15,6 @@
  
 # Links
 
-[Blog](https://blog.puyu.live)  
-[Repo](https://repo.puyu.live)  
 [Twitter](https://twitter.com/Paul_Y_W)  
 [Github](https://github.com/PaulWang1905)    
 [Facebook](https://facebook.com/puyu.wang.music)  
