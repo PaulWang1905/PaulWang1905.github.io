@@ -2,16 +2,17 @@
 
 ## Quick Facts
  
-- Nick Names: Paul, Puyo, Paopao, PaoGe...
 - Musicologist / Coder / Bassist / Linux User / Opensource Enthusiast / Agnostic
 - Believe in Science, Art, Freedom, Democracy, Openness, and World Peace.
-- Hate Censorship, Dictorship, Unneccesary Walls, Corruption, Bureaucracy, etc.
+- Nof a fan for  Censorship, Walls, Bureaucracy, etc.
 - Born in Henan, China. Speak Henan Hua(dialect).   
-- Always support Movements for freedom.
-- Wearing a MASK in public place since 01/23/2020
+- Free people in all lands, unite.  
+- Wearing a MASK in public place since 01/23/2020.
 - Graduate Student at Shanghai Normal University. 
-- Coke Cola Consumer. Used to consume a lot of coke. Getting rid of the addiction. 
-- Probably watched over 1000 movies and tv episodes. 
+- Former Coke Cola Consumer.  
+- Probably watched over 1000 movies and tv episodes.
+- Vaccinated. 
+- Doing digital humanities.
  
 # Links
 
@@ -23,7 +24,7 @@
 
 In 90s, born in a small county in Henan. 
 In 2014, enrolled in Musicology major at Zhengzhou Normal University. 
-Since 2019, studying for master in art degree at Shanghai Normal University. 
+Since 2019, studying for Master in Art degree at Shanghai Normal University. 
 
 # Quick Messages
 
@@ -38,7 +39,4 @@ Right now I am working on semantic web,  Linked Open Data and its application on
 I am familiar with CIDOC CRM. 
 
  
-### This website is a part of an assignment for my LifeWriting Course. 
-### Contents might be moved to my blog soon. 
-### For more information please visit my [Blog](https://blog.puyu.live)
 
